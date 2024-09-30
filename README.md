@@ -86,12 +86,3 @@
     <img src="https://img.shields.io/badge/Hernan-Vergara-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-
-
-### 🐍 &nbsp;That's How Commits Move...
-
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
-  </a>
-</p>
