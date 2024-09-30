@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qMR1i9lR_lndkr4nMB_wmptQdBkZo0T-sw&s" alt="Hernan's Banner" width="600"/>
+  <img src="https://assets.bacancytechnology.com/main-boot-5/images/ai-generative/banner.jpg?v-1" alt="Hernan's Banner" width="600"/>
 </p>
 
 <p align="center">
