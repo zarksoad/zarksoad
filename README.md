@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp I'm currently studying software development and working on projects to enhance my skills.
+👨‍💻 &nbsp; I'm currently studying software development and working on projects to enhance my skills.&nbsp;
 💡 &nbsp; I love exploring new technologies and creating software solutions, as well as quick, innovative hacks.
 🌱 &nbsp; I'm focused on learning more about architecture and solutions with Node.js and TypeScript.
 ✍️ &nbsp; In my free time, I enjoy reading about the world and improving my social skills.
