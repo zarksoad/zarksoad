@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Hernan's Banner](https://mir-s3-cdn-cf.behance.net/projects/404/61c983204655923.Y3JvcCw2MDAwLDQ2OTMsMCwxMjAy.jpg)
+![Hernan's Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4qMR1i9lR_lndkr4nMB_wmptQdBkZo0T-sw&s)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there!I'm Hernan Vergara</h2>
 
@@ -64,10 +64,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zarksoad&theme=dark&hide_border=true"/>
 </p>
-
-### 🎖 &nbsp;My Badges 
-
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
