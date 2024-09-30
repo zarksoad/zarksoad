@@ -8,12 +8,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp; I'm currently studying software development and working on projects to enhance my skills.&nbsp;
-💡 &nbsp; I love exploring new technologies and creating software solutions, as well as quick, innovative hacks.
-🌱 &nbsp; I'm focused on learning more about architecture and solutions with Node.js and TypeScript.
-✍️ &nbsp; In my free time, I enjoy reading about the world and improving my social skills.
-💬 &nbsp; I Feel free to reach out for pro bono consulting, volunteering opportunities, or simply for an engaging conversation.
+👨‍💻 &nbsp; I'm currently studying software development and working on projects to enhance my skills.<br>
+💡 &nbsp; I love exploring new technologies and creating software solutions, as well as quick, innovative hacks.<br>
+🌱 &nbsp; I'm focused on learning more about architecture and solutions with Node.js and TypeScript.<br>
+✍️ &nbsp; In my free time, I enjoy reading about the world and improving my social skills.<br>
+💬 &nbsp; Feel free to reach out for pro bono consulting, volunteering opportunities, or simply for an engaging conversation.<br>
 ✉️ &nbsp; You can email me at zarksoad@gmail.com! I'll do my best to respond promptly.
+
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
