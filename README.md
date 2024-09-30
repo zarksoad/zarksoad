@@ -72,7 +72,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hern%C3%A1n-dar%C3%ADo-vergara-viana-51b93920b/"><img src="https://img.shields.io/badge/-Hernan%20Vergara%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:zarksoad@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:zarksoad@gmail.com"><img src="https://img.shields.io/badge/Hernan-Vergara-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
