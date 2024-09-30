@@ -71,8 +71,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hern%C3%A1n-dar%C3%ADo-vergara-viana-51b93920b/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hern%C3%A1n-dar%C3%ADo-vergara-viana-51b93920b/"><img src="https://img.shields.io/badge/-Hernan%20Vergara%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:zarksoad@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
