@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Aditya Kanoi Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fco.pinterest.com%2Ftobialexander2103%2Fsasuke-uchiha%2F&psig=AOvVaw1DldjLHEpRTZ14kHZuVjvC&ust=1727817673647000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCQsMbM64gDFQAAAAAdAAAAABAE)
+![Hernan's Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fco.pinterest.com%2Ftobialexander2103%2Fsasuke-uchiha%2F&psig=AOvVaw1DldjLHEpRTZ14kHZuVjvC&ust=1727817673647000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCQsMbM64gDFQAAAAAdAAAAABAE)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
