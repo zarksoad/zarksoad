@@ -67,9 +67,6 @@
   <a href="https://github.com/zarksoad">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zarksoad&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zarksoad&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
 </p>
 
 <p align="center">
@@ -83,6 +80,6 @@
     <img src="https://img.shields.io/badge/-Hernan%20Vergara%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:zarksoad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hernan-Vergara-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hernan-Vergara?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
