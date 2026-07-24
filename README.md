@@ -11,7 +11,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp; I'm currently studying software development and working on projects to enhance my skills.<br>
+👨‍💻 &nbsp; I'm software developer and working on projects to enhance my skills.<br>
 💡 &nbsp; I love exploring new technologies and creating software solutions, as well as quick, innovative hacks.<br>
 🌱 &nbsp; I'm focused on learning more about architecture and solutions with Node.js and TypeScript.<br>
 ✍️ &nbsp; In my free time, I enjoy reading about the world and improving my social skills.<br>
